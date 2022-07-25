@@ -1,0 +1,27 @@
+.allproductpage {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading {
+    width: 100%;
+    height: 100%;
+    color: white;
+}
+
+.product-container {
+    width: 100%;
+    height: 100%;
+    background-color: red;
+}
+
+.allproduct-btn {
+    background-color: red;
+}
+
+.allproductContainer {
+    background-color: red;
+}

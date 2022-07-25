@@ -1,0 +1,11 @@
+.sliderproductcard {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.sliderproducts {
+    margin: 40px;
+}

@@ -1,0 +1,71 @@
+.addProducts {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.addprod-container {
+    min-width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.addproductsform {
+    gap: 20px;
+    width: 50%;
+    padding: 20px;
+    display: flex;
+    border-radius: 8px;
+    flex-direction: column;
+    padding: 20px;
+    margin: 20px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -5px rgba(0, 0, 0, 0.75);
+}
+
+.addDataTitle {
+    color: rgb(185, 183, 183);
+    font-size: 36px;
+    font-weight: 800;
+}
+
+.group-input {
+    display: flex;
+    width: 70%;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.inputs {
+    width: 100%;
+    border: none;
+    outline: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(185, 183, 183);
+    border-bottom: 1px solid gray;
+}
+
+.inputs::placeholder {
+    color: rgb(224, 224, 224);
+}
+
+.titles {
+    color: rgb(167, 164, 164);
+    width: 100%;
+    font-weight: 600;
+}
+
+.submit-button {
+    font-weight: 800;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: green;
+}

@@ -1,0 +1,30 @@
+.product-card-container {
+    display: flex;
+    gap: 10px;
+    margin: 10px;
+    padding: 40px 0px 40px 0px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(245, 245, 245);
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -5px rgba(0, 0, 0, 0.75);
+}
+
+.productTitle {
+    color: rgb(180, 180, 180);
+    font-weight: 800;
+}
+
+.product-details {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.rate {
+    color: red;
+    text-decoration: line-through;
+}
+
+.sale {
+    color: green;
+}
+
