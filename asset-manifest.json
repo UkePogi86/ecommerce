@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ecommerce/static/css/main.05f416a3.css",
+    "main.js": "/ecommerce/static/js/main.46c2575f.js",
+    "static/media/four.jpg": "/ecommerce/static/media/four.ed5183c1105708293c41.jpg",
+    "static/media/six.jpg": "/ecommerce/static/media/six.727a6aa6564f6f9fc675.jpg",
+    "static/media/five.png": "/ecommerce/static/media/five.50a97f4c8dd94758ba92.png",
+    "static/media/two.jpg": "/ecommerce/static/media/two.2e4888af8bede104e5ac.jpg",
+    "static/media/three.jpg": "/ecommerce/static/media/three.fcbabf671b436c7a4802.jpg",
+    "static/media/tritonlogo.jpg": "/ecommerce/static/media/tritonlogo.7737560b47606f447756.jpg",
+    "static/media/revicons.eot": "/ecommerce/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/ecommerce/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/ecommerce/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/ecommerce/index.html",
+    "main.05f416a3.css.map": "/ecommerce/static/css/main.05f416a3.css.map",
+    "main.46c2575f.js.map": "/ecommerce/static/js/main.46c2575f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05f416a3.css",
+    "static/js/main.46c2575f.js"
+  ]
+}
